@@ -16,10 +16,39 @@ I then created the boxplots for each variable with the code.
 > boxplot(x=Second)
 > boxplot(x=FinalDecision)
 ```
-The boxplots I obtained are shown below.
+The boxplots I obtained are shown below
 
-Frequency
 ![Frequency](https://drive.google.com/uc?export=view&id=15vyyeuQhhjfCbpKRu-tCP8eUoZMV41hl)
+*Frequency*
 
-BP
 ![BP](https://drive.google.com/uc?export=view&id=14FsmRlwPTkeHsdqAuSg_01S4o6d0Z2tC)
+*BP - Asked in the question*
+
+![First](https://drive.google.com/uc?export=view&id=1l4XVI8wRyn442LJtuqxhKAYgdc7hJJoF)
+*First*
+
+![Second](https://drive.google.com/uc?export=view&id=1crLuLveDjlQxUbtnFJYtiHJZwsXlOuaE)
+*Second*
+
+![FD](https://drive.google.com/uc?export=view&id=1ubV5ylnnckA-VFGHIGjxuqhKR9OOaIGc)
+*FinalDecision*
+
+
+The histograms I obtained are shown below
+
+![Frequency](https://drive.google.com/uc?export=view&id=193u9VqciYcNwGPDnVjt8U5Q9EO3pcokP)
+*Frequency*
+
+![BP](https://drive.google.com/uc?export=view&id=1GnvQWymG-2ojNIjRphofp6ZEyWpMdXMg)
+*BP - Asked in the question*
+
+![First](https://drive.google.com/uc?export=view&id=1esn_gnv1pEBPp7g8liRTWvjk0mIoZOYe)
+*First*
+
+![Second](https://drive.google.com/uc?export=view&id=1CvAKGBXYXpPmAc2rDcKFyDDmmqcU5r0Q)
+*Second*
+
+![FD](https://drive.google.com/uc?export=view&id=1s4mofdNyN8uW9mG8eZFUUxRaI3oJPgQp)
+*FinalDecision*
+
+
