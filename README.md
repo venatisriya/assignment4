@@ -18,4 +18,8 @@ I then created the boxplots for each variable with the code.
 ```
 The boxplots I obtained are shown below.
 
+Frequency
 ![Frequency](https://drive.google.com/uc?export=view&id=15vyyeuQhhjfCbpKRu-tCP8eUoZMV41hl)
+
+BP
+![BP](https://drive.google.com/uc?export=view&id=14FsmRlwPTkeHsdqAuSg_01S4o6d0Z2tC)
