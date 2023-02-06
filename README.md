@@ -33,6 +33,14 @@ The boxplots I obtained are shown below
 ![](https://drive.google.com/uc?export=view&id=1ubV5ylnnckA-VFGHIGjxuqhKR9OOaIGc)
 *FinalDecision*
 
+I created the histograms using the following code.
+```
+> hist(x=Frequency)
+> hist(x=BP)
+> hist(x=First)
+> hist(x=Second)
+> hist(x=FinalDecision)
+```
 
 The histograms I obtained are shown below
 
